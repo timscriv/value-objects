@@ -1,0 +1,11 @@
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\bin\Debug\netcoreapp2.1\BookValueObject.deps.json
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\bin\Debug\netcoreapp2.1\BookValueObject.runtimeconfig.json
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\bin\Debug\netcoreapp2.1\BookValueObject.runtimeconfig.dev.json
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\bin\Debug\netcoreapp2.1\BookValueObject.dll
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\bin\Debug\netcoreapp2.1\BookValueObject.pdb
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\obj\Debug\netcoreapp2.1\BookValueObject.csproj.CoreCompileInputs.cache
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\obj\Debug\netcoreapp2.1\BookValueObject.AssemblyInfoInputs.cache
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\obj\Debug\netcoreapp2.1\BookValueObject.AssemblyInfo.cs
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\obj\Debug\netcoreapp2.1\BookValueObject.dll
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\obj\Debug\netcoreapp2.1\BookValueObject.pdb
+C:\Users\timscriv\Documents\GitHub\value-objects\src\BookValueObject\obj\Debug\netcoreapp2.1\BookValueObject.csprojAssemblyReference.cache
